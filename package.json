@@ -1,0 +1,13 @@
+{
+  "name": "leyra-seguridad-desktop",
+  "version": "1.0.0",
+  "description": "Aplicación de escritorio para la gestión de servicios de Leyra Seguridad",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.1.0"
+  }
+}
