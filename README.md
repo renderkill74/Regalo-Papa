@@ -1,3 +1,17 @@
+# Demo de demostración
+
+Esta versión fue preparada exclusivamente para mostrar las funcionalidades de la aplicación.
+
+- Funciona localmente y no requiere conexión a una base de datos externa.
+- Utiliza datos ficticios para simular operaciones reales.
+- Permite explorar las funcionalidades sin acceder a información de producción.
+- Los datos se almacenan localmente en el entorno de ejecución.
+
+Nota: Esta versión es independiente del entorno de producción y no tiene acceso a sus bases de datos ni credenciales.
+
+
+
+
 # Leyra Seguridad
 
 Aplicación local organizada por pantallas y módulos para gestionar los servicios de Leyra Seguridad.
